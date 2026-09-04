@@ -7,7 +7,7 @@ about:
   head: 4b0571e
   archived: false
   latestVersion: v0.4.2
-  collectedAt: 2026-09-04T19:55:42Z
+  collectedAt: 2026-09-04T20:51:02Z
 timeline:
   created: 2020-03-14
   lastCommit: 2026-05-26
@@ -82,6 +82,44 @@ total:
   openIssue: 1
   commit: 501
 ---
+path: /home/runner/.x-repo/github.com/edoardottt/pwdsafety
+collectedAt: 2026-09-04T20:51:04Z
+loc:
+  Go:
+    code: 912
+    comments: 247
+    blanks: 224
+    files: 8
+  Batch:
+    code: 63
+    comments: 0
+    blanks: 14
+    files: 1
+  Makefile:
+    code: 33
+    comments: 0
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 16
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 215
+    blanks: 78
+    files: 3
+  Text:
+    code: 0
+    comments: 37
+    blanks: 0
+    files: 5
+total:
+  code: 1024
+  comments: 499
+  blanks: 327
+  files: 19
 ---
 date: "2026-08-24"
 repo:
