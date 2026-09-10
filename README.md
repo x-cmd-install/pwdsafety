@@ -12,49 +12,7 @@
 x install pwdsafety
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/edoardottt/pwdsafety>
-- **Homepage**: <https://edoardottt.com/>
-- **License**: GPL-3.0
-
-## Release
-
-- **Latest**: `v0.4.2` (2026-03-21)
-- **Last commit**: 2026-05-26
-- **Assets in release**: 9
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [pwdsafety_0.4.2_checksums.txt](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_checksums.txt) | 782 B | `other` |
-| [pwdsafety_0.4.2_linux_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_386.zip) | 2.3 MiB | `other` |
-| [pwdsafety_0.4.2_linux_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_amd64.zip) | 2.4 MiB | `native/linux/x64` |
-| [pwdsafety_0.4.2_linux_arm.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_arm.zip) | 2.3 MiB | `native/linux/arm` |
-| [pwdsafety_0.4.2_linux_arm64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_arm64.zip) | 2.2 MiB | `native/linux/arm64` |
-| [pwdsafety_0.4.2_macOS_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_macOS_amd64.zip) | 2.4 MiB | `native/darwin/x64` |
-| [pwdsafety_0.4.2_macOS_arm64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_macOS_arm64.zip) | 2.2 MiB | `native/darwin/arm64` |
-| [pwdsafety_0.4.2_windows_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_386.zip) | 2.4 MiB | `native/win/x64` |
-| [pwdsafety_0.4.2_windows_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_amd64.zip) | 2.5 MiB | `native/win/x64` |
-
-## Popularity
-
-- **Stars**: 101 · **Forks**: 14 · **Open issues**: 8 · **Contributors**: 3
-
-## Totals (cumulative)
-
-- **Releases**: 10 · **Merged PRs**: 63 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 1 · **Commits**: 501
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 2 | 8 | 1 | 0 | 0 | 10 |
-
-## Code size
+## Code insight
 
 Total: **1,024** lines of code across **14** files in the top 5 languages.
 
@@ -76,6 +34,59 @@ Lowest-scoring checks:
 - **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/edoardottt/pwdsafety>
+- **Homepage**: <https://edoardottt.com/>
+- **License**: GPL-3.0
+
+## Release
+
+- **Latest**: `v0.4.2` (2026-03-21)
+- **Last commit**: 2026-05-26
+- **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 101 · **Forks**: 14 · **Open issues**: 8 · **Contributors**: 3
+
+## Totals (cumulative)
+
+- **Releases**: 10 · **Merged PRs**: 63 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 1 · **Commits**: 501
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 1 | 3 | 1 | 0 | 0 | 5 |
+| 360d | 2025-09-15 | 2 | 8 | 1 | 0 | 0 | 10 |
+| last720d | 2024-09-20 | 2 | 23 | 1 | 1 | 1 | 61 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pwdsafety_0.4.2_checksums.txt](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_checksums.txt) | 782 B | `other` |
+| [pwdsafety_0.4.2_linux_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_386.zip) | 2.3 MiB | `other` |
+| [pwdsafety_0.4.2_linux_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_amd64.zip) | 2.4 MiB | `native/linux/x64` |
+| [pwdsafety_0.4.2_linux_arm.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_arm.zip) | 2.3 MiB | `native/linux/arm` |
+| [pwdsafety_0.4.2_linux_arm64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_arm64.zip) | 2.2 MiB | `native/linux/arm64` |
+| [pwdsafety_0.4.2_macOS_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_macOS_amd64.zip) | 2.4 MiB | `native/darwin/x64` |
+| [pwdsafety_0.4.2_macOS_arm64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_macOS_arm64.zip) | 2.2 MiB | `native/darwin/arm64` |
+| [pwdsafety_0.4.2_windows_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_386.zip) | 2.4 MiB | `native/win/x64` |
+| [pwdsafety_0.4.2_windows_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_amd64.zip) | 2.5 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **10** distros on [repology.org](https://repology.org/project/pwdsafety). **5** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.4.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for pwdsafety lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pwdsafety` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +96,4 @@ Install metadata for pwdsafety lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:36:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:49:17Z._
