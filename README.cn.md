@@ -4,7 +4,7 @@
 
 🔒command line tool checking password safety🔒
 
-![pwdsafety](https://repo.x-cmd.io/pwdsafety.svg)
+![pwdsafety](https://repo.x-cmd.io/pwdsafety.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,20 @@ x install pwdsafety
 - **最新版本**: `v0.4.2` (2026-03-21)
 - **最近提交**: 2026-05-26
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-03-21T07:22:03Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pwdsafety_0.4.2_checksums.txt](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_checksums.txt) | 782 B | `other` |
+| [pwdsafety_0.4.2_linux_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_386.zip) | 2.3 MiB | `other` |
+| [pwdsafety_0.4.2_linux_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_amd64.zip) | 2.4 MiB | `native/linux/x64` |
+| [pwdsafety_0.4.2_linux_arm.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_arm.zip) | 2.3 MiB | `native/linux/arm` |
+| [pwdsafety_0.4.2_linux_arm64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_arm64.zip) | 2.2 MiB | `native/linux/arm64` |
+| [pwdsafety_0.4.2_macOS_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_macOS_amd64.zip) | 2.4 MiB | `native/darwin/x64` |
+| [pwdsafety_0.4.2_macOS_arm64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_macOS_arm64.zip) | 2.2 MiB | `native/darwin/arm64` |
+| [pwdsafety_0.4.2_windows_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_386.zip) | 2.4 MiB | `native/win/x64` |
+| [pwdsafety_0.4.2_windows_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_amd64.zip) | 2.5 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +85,4 @@ pwdsafety 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:07:43Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:36:52Z._

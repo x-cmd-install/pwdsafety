@@ -23,7 +23,20 @@ x install pwdsafety
 - **Latest**: `v0.4.2` (2026-03-21)
 - **Last commit**: 2026-05-26
 - **Assets in release**: 9
-- **Published**: 2026-03-21T07:22:03Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pwdsafety_0.4.2_checksums.txt](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_checksums.txt) | 782 B | `other` |
+| [pwdsafety_0.4.2_linux_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_386.zip) | 2.3 MiB | `other` |
+| [pwdsafety_0.4.2_linux_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_amd64.zip) | 2.4 MiB | `native/linux/x64` |
+| [pwdsafety_0.4.2_linux_arm.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_arm.zip) | 2.3 MiB | `native/linux/arm` |
+| [pwdsafety_0.4.2_linux_arm64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_arm64.zip) | 2.2 MiB | `native/linux/arm64` |
+| [pwdsafety_0.4.2_macOS_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_macOS_amd64.zip) | 2.4 MiB | `native/darwin/x64` |
+| [pwdsafety_0.4.2_macOS_arm64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_macOS_arm64.zip) | 2.2 MiB | `native/darwin/arm64` |
+| [pwdsafety_0.4.2_windows_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_386.zip) | 2.4 MiB | `native/win/x64` |
+| [pwdsafety_0.4.2_windows_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_amd64.zip) | 2.5 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -68,8 +81,8 @@ Lowest-scoring checks:
 Install metadata for pwdsafety lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pwdsafety` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pwdsafety.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pwdsafety.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:07:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:36:52Z._
