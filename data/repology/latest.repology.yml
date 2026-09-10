@@ -1,0 +1,114 @@
+- repo: aur
+  srcname: pwdsafety
+  binname: pwdsafety
+  visiblename: pwdsafety
+  version: 0.4.2
+  origversion: 0.4.2-1
+  status: newest
+  summary: Command line tool that checks how much a password is safe
+  maintainers:
+    - nizne@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: pwdsafety-bin
+  binname: pwdsafety-bin
+  visiblename: pwdsafety-bin
+  version: 0.4.2
+  origversion: 0.4.2-1
+  status: newest
+  summary: Command line tool that checks how much a password is safe
+  maintainers:
+    - nizne@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: pwdsafety-git
+  binname: pwdsafety-git
+  visiblename: pwdsafety-git
+  version: 0.4.2.r6.g4b0571e
+  origversion: 0.4.2.r6.g4b0571e-1
+  status: rolling
+  summary: Command line tool that checks how much a password is safe (Git version)
+  maintainers:
+    - nizne@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: freebsd
+  srcname: security/pwdsafety
+  binname: pwdsafety
+  visiblename: security/pwdsafety
+  version: 0.4.2
+  origversion: 0.4.2_1
+  status: newest
+  summary: Command line tool that checks how much a password is safe
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - security
+- repo: nix_stable_24_05
+  srcname: pwdsafety
+  visiblename: pwdsafety
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Command line tool checking password safety
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: pwdsafety
+  visiblename: pwdsafety
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Command line tool checking password safety
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: pwdsafety
+  visiblename: pwdsafety
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Command line tool checking password safety
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: pwdsafety
+  visiblename: pwdsafety
+  version: 0.4.1
+  origversion: null
+  status: outdated
+  summary: Command line tool checking password safety
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: pwdsafety
+  visiblename: pwdsafety
+  version: 0.4.2
+  origversion: null
+  status: newest
+  summary: Command line tool checking password safety
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: pwdsafety
+  visiblename: pwdsafety
+  version: 0.4.2
+  origversion: null
+  status: newest
+  summary: Command line tool checking password safety
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-or-later
