@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.2"
   latestRelease: "v0.4.2"
   latestPrerelease: "0.2"
-  collectedAt: 2026-09-10T05:07:35Z
+  collectedAt: 2026-09-10T16:36:44Z
 timeline:
   created: 2020-03-14
   lastCommit: 2026-05-26
@@ -85,7 +85,7 @@ total:
   commit: 501
 ---
 path: /home/runner/.x-repo/github.com/edoardottt/pwdsafety
-collectedAt: 2026-09-10T05:07:38Z
+collectedAt: 2026-09-10T16:36:48Z
 loc:
   Go:
     code: 912
