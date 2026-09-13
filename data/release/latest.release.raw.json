@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2501593,
       "digest": "sha256:a9e7b1fa9e3ca94af10418e935702732abcaf8be0b4fc29fda5566ea7d38fd86",
-      "download_count": 113,
+      "download_count": 115,
       "created_at": "2026-03-21T07:22:02Z",
       "updated_at": "2026-03-21T07:22:02Z",
       "browser_download_url": "https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_amd64.zip"
