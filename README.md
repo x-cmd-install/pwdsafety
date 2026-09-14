@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 1 | 3 | 1 | 0 | 0 | 3 |
-| 360d | 2025-09-18 | 1 | 8 | 1 | 0 | 0 | 10 |
-| last720d | 2024-09-23 | 2 | 23 | 1 | 1 | 1 | 61 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 1 | 3 | 1 | 0 | 0 | 3 |
+| 360d | 2025-09-19 | 1 | 8 | 1 | 0 | 0 | 10 |
+| last720d | 2024-09-24 | 2 | 23 | 1 | 1 | 1 | 61 |
 
 ## Release assets
 
@@ -79,14 +79,6 @@ Lowest-scoring checks:
 | [pwdsafety_0.4.2_windows_386.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_386.zip) | 2.4 MiB | `native/win/x64` |
 | [pwdsafety_0.4.2_windows_amd64.zip](https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_amd64.zip) | 2.5 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/pwdsafety). **5** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.4.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for pwdsafety lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pwdsafety` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +88,4 @@ Install metadata for pwdsafety lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:13:36Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:37:27Z._
