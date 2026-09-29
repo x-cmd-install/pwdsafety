@@ -22,7 +22,7 @@ Total: **1,024** lines of code across **14** files in the top 5 languages.
 | Batch | 63 | 0 | 14 | 1 |
 | Makefile | 33 | 0 | 8 | 1 |
 | Yaml | 16 | 0 | 3 | 1 |
-| Markdown | 0 | 215 | 78 | 3 |
+| Markdown | 0 | 194 | 78 | 3 |
 
 ## OpenSSF Scorecard
 
@@ -30,9 +30,9 @@ Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.2` (2026-03-21)
-- **Last commit**: 2026-05-26
+- **Last commit**: 2026-09-28
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 63 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 1 · **Commits**: 501
+- **Releases**: 10 · **Merged PRs**: 63 · **Open PRs**: 1 · **Closed issues**: 7 · **Open issues**: 1 · **Commits**: 502
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 3 | 1 | 0 | 0 | 3 |
-| 360d | 2025-10-03 | 1 | 8 | 1 | 0 | 0 | 10 |
-| last720d | 2024-10-08 | 2 | 22 | 1 | 1 | 1 | 60 |
+| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-31 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 90d | 2026-07-01 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last180d | 2026-04-02 | 0 | 3 | 1 | 0 | 0 | 4 |
+| 360d | 2025-10-04 | 1 | 8 | 1 | 0 | 0 | 11 |
+| last720d | 2024-10-09 | 2 | 22 | 1 | 1 | 1 | 60 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for pwdsafety lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:43:24Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:15:42Z._
