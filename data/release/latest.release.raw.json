@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2501593,
       "digest": "sha256:a9e7b1fa9e3ca94af10418e935702732abcaf8be0b4fc29fda5566ea7d38fd86",
-      "download_count": 181,
+      "download_count": 184,
       "created_at": "2026-03-21T07:22:02Z",
       "updated_at": "2026-03-21T07:22:02Z",
       "browser_download_url": "https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_linux_amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2566966,
       "digest": "sha256:1b621ea6fd25916860f804c9c505b907c56a1e7b730f1d76fd5a1d9133f82b6d",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-03-21T07:22:02Z",
       "updated_at": "2026-03-21T07:22:03Z",
       "browser_download_url": "https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2587322,
       "digest": "sha256:b22c799a46338fb29b1a81aed5d533e2e364c5848a1c48cfd3b45b3e521fe4fd",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-03-21T07:22:03Z",
       "updated_at": "2026-03-21T07:22:03Z",
       "browser_download_url": "https://github.com/edoardottt/pwdsafety/releases/download/v0.4.2/pwdsafety_0.4.2_windows_amd64.zip"
